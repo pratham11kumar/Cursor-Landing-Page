@@ -21,6 +21,15 @@ A desktop-first landing page inspired by the Cursor website, recreated using pur
 
 ---
 
+## 📸 Screenshot
+
+![Landing Page](Screenshot/screenshot-1.png)
+
+![Feature Section Page](Screenshot/screenshot-2.png)
+
+![Footer Page](Screenshot/screenshot-3.png)
+
+
 ## 🛠 Technologies Used
 
 - HTML5
